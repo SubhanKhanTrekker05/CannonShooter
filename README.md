@@ -86,3 +86,4 @@ and screens, but the fighting area stays plain to keep focus on action.
 3. Left enemy spawn point
 4. Right enemy spawn point
 5. Bottom support/spawn zone 
+## SNIPPETS
